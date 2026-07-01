@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR6v0568/v1
+canonical_location: https://kanripo.org/bkk/KR6v0568/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太虛大師全書．第十一編　宗依論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX18/TX18n0011.xml
+    old_id: TX18n0011
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0568_001.yaml, hash: 'sha256:7533193157d1457c494604b4eab4bcf7d1eb64adb530d00923fde34f9c2280f3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0568_001.markers.yaml, hash: 'sha256:bcccce69f3ffda9390b70a82027495ecdd2e121080ec9e9894e74b21408d0375'}
+table_of_contents: []
+hash: sha256:6953158005524dde46e2deff7355dd45592ead3c9c74182574445f019447826b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: TX

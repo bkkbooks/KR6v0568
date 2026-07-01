@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR6v0568/TX/v1
+canonical_location: https://kanripo.org/bkk/KR6v0568/TX/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太虛大師全書．第十一編　宗依論
+  identifiers:
+    krp: KR6v0568
+    cbeta: TX18n0011
+    cbeta_old_id: TX18n0011
+    authorityid: CA0008613
+    json_key: TX0011
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX18/TX18n0011.xml
+    old_id: TX18n0011
+  edition:
+    short: TX
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0568_001-TX.yaml, hash: 'sha256:73adf1311609b320cd4e6077b2ee606a1054ef90ff0ff8071b068efefefa3e45'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0568_001-TX.markers.yaml, hash: 'sha256:5472ff01e6ed14631ee640860967d00a7c3eda748b82fd3e9185bc2d4b4ebb30'}
+table_of_contents: []
+hash: sha256:d759fb4eab95592a2f76127e98677cd7893d7c9b072ddf7216ca3eb63e95ef24
