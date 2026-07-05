@@ -13,13 +13,10 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0568_001.yaml, hash: 'sha256:7533193157d1457c494604b4eab4bcf7d1eb64adb530d00923fde34f9c2280f3'}
+  - {seq: 1, filename: KR6v0568_001.yaml, hash: 'sha256:73adf1311609b320cd4e6077b2ee606a1054ef90ff0ff8071b068efefefa3e45'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0568_001.markers.yaml, hash: 'sha256:bcccce69f3ffda9390b70a82027495ecdd2e121080ec9e9894e74b21408d0375'}
+  - {seq: 1, role: markers, filename: assets/KR6v0568_001.markers.yaml, hash: 'sha256:98c9ebd7473e0827c200dd7b6d32e6af06127ca9f47f199501cf502983ac8a7c'}
 table_of_contents: []
-hash: sha256:6953158005524dde46e2deff7355dd45592ead3c9c74182574445f019447826b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d358617a4cee84a047f98d91e366fc3e7ecd11dbe0a9bc030e8ca8832f2b5740
 editions:
 - short: TX
