@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0568/v1
 canonical_location: https://kanripo.org/bkk/KR6v0568/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太虛大師全書．第十一編　宗依論
   source:
@@ -13,10 +13,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0568_001.yaml, hash: 'sha256:73adf1311609b320cd4e6077b2ee606a1054ef90ff0ff8071b068efefefa3e45'}
+  - {seq: 1, filename: KR6v0568_001.yaml, hash: 'sha256:6ce2fb3e8ee584dca154122cc6ea57db745246b6df245cec7fb7eb5d19b31caa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0568_001.markers.yaml, hash: 'sha256:98c9ebd7473e0827c200dd7b6d32e6af06127ca9f47f199501cf502983ac8a7c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0568_001.markers.yaml, hash: 'sha256:3a5ab7a5545ac1ebcbf7e31231a2be1497d3347841c23e21d2c0a3d153f0745c'}
 table_of_contents: []
-hash: sha256:d358617a4cee84a047f98d91e366fc3e7ecd11dbe0a9bc030e8ca8832f2b5740
+hash: sha256:1bbd7b68f212cb5b3a45b40fe06b14a76ea6200d510f47ee81aa1d5c7ee09cb1
 editions:
 - short: TX
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
